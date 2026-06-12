@@ -1,0 +1,27 @@
+# Production Plan & Tracker — *The Fitting Room*
+### project-manager · honest arithmetic, updated every pass.
+
+**Targets:** 5 chapters · word floor 6,000/chapter · total target ~37,500.
+**Branch:** `claude/serene-mccarthy-jcwqyx` · **Scene marker:** `◆` · **Policy:** every chapter ≥ floor; grow via the three B-plots, never padding.
+**Drafting mode:** **compressed** (compress-fiction codec). Each chapter is composed at full literary quality but spelled compressed → `chapters-long/chNN-compressed.md`. Expand outside the session with `.claude/skills/compress-fiction/expand-prompt.md` (decoder model). Word counts below are **expanded-equivalent estimates** (the prose Claude actually composed), not compressed-character counts.
+
+## Live tracker
+| Chapter | Title | Floor | Drafted (exp. est.) | % | Status |
+|--------:|-------|------:|--------:|--:|--------|
+| 1 | Closing Time | 6,000 | 0 | 0% | Not started |
+| 2 | The Royal Crescent | 6,000 | 0 | 0% | Not started |
+| 3 | Comparing Notes | 6,000 | 0 | 0% | Not started |
+| 4 | The Afternoon | 6,000 | 0 | 0% | Not started |
+| 5 | Anniversary | 6,000 | 0 | 0% | Not started |
+| **Total** | | **30,000** | **0** | **0%** | Phase 0–3 complete; Phase 4 starting |
+
+## Pace & projection
+- Phase 0 (spec), 1 (outline), 2 (bible), 3 (plan): **complete.**
+- Phase 4 (draft): one chapter per pass, compressed. After each: update tracker → commit → push (Law 7).
+- Compression saves output *legibility-for-tokens*, not composition effort — every sentence is still composed at full quality; honest reporting per Law 8.
+
+## Stage
+**Drafting** ← current (revision-partner). (Revision = Phase 5, after the draft is whole.)
+
+## Next action
+Draft **Chapter 1 — Closing Time** compressed → `chapters-long/ch01-compressed.md`. Daniel (present, boutique) + Mara (past: Clare's first visit). Seed: scarf, fitting room, the lock, coffee/alteration motifs, Mara's exit, the afternoon-woman mystery. Then commit + push.
