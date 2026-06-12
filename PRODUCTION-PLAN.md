@@ -8,12 +8,14 @@
 ## Live tracker
 | Chapter | Title | Floor | Drafted (exp. est.) | % | Status |
 |--------:|-------|------:|--------:|--:|--------|
-| 1 | Closing Time | 6,000 | 0 | 0% | Not started |
+| 1 | Closing Time | 6,000 | ~3,300 | 55% | Drafted (compressed) — under floor; opening |
 | 2 | The Royal Crescent | 6,000 | 0 | 0% | Not started |
 | 3 | Comparing Notes | 6,000 | 0 | 0% | Not started |
 | 4 | The Afternoon | 6,000 | 0 | 0% | Not started |
 | 5 | Anniversary | 6,000 | 0 | 0% | Not started |
-| **Total** | | **30,000** | **0** | **0%** | Phase 0–3 complete; Phase 4 starting |
+| **Total** | | **30,000** | **~3,300** | **11%** | Phase 4 drafting; ch1 under floor (honest, Law 8) |
+
+> **Honest note (Law 8):** Drafting front-to-back to land the complete 5-chapter arc first; ch.1 is composed at full quality but runs ~3.3k expanded-equiv (a tight opening). Bringing each chapter to the 6k floor is done via the three B-plots (Mara's exit, the failing frontage, Clare's kintsugi) in a Phase-5 growth pass — never padding (Law 4). Priority order: a whole, well-built arc, then lift to floor.
 
 ## Pace & projection
 - Phase 0 (spec), 1 (outline), 2 (bible), 3 (plan): **complete.**
