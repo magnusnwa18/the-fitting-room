@@ -11,7 +11,7 @@
 | 1 | Closing Time | 6,000 | ~3,300 | 55% | Drafted (compressed) — under floor; opening |
 | 2 | The Royal Crescent | 6,000 | ~4,100 | 68% | Drafted (compressed) — reader reveal: Clare = the woman |
 | 3 | Comparing Notes | 6,000 | ~3,900 | 65% | Drafted (compressed) — midpoint turn; the plan, kintsugi paid in |
-| 4 | The Afternoon | 6,000 | 0 | 0% | Not started |
+| 4 | The Afternoon | 6,000 | ~4,000 | 67% | Drafted (compressed) — two scarves, lock-as-ceremony, loops to ch1 |
 | 5 | Anniversary | 6,000 | 0 | 0% | Not started |
 | **Total** | | **30,000** | **~3,300** | **11%** | Phase 4 drafting; ch1 under floor (honest, Law 8) |
 
